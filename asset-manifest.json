@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-xjvgtf/static/css/main.22ddb897.chunk.css",
+    "main.js": "https://.github.io/csb-xjvgtf/static/js/main.79252621.chunk.js",
+    "main.js.map": "https://.github.io/csb-xjvgtf/static/js/main.79252621.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-xjvgtf/static/js/runtime-main.5617cb5b.js",
+    "runtime-main.js.map": "https://.github.io/csb-xjvgtf/static/js/runtime-main.5617cb5b.js.map",
+    "static/js/2.22d5b046.chunk.js": "https://.github.io/csb-xjvgtf/static/js/2.22d5b046.chunk.js",
+    "static/js/2.22d5b046.chunk.js.map": "https://.github.io/csb-xjvgtf/static/js/2.22d5b046.chunk.js.map",
+    "index.html": "https://.github.io/csb-xjvgtf/index.html",
+    "static/css/main.22ddb897.chunk.css.map": "https://.github.io/csb-xjvgtf/static/css/main.22ddb897.chunk.css.map",
+    "static/js/2.22d5b046.chunk.js.LICENSE.txt": "https://.github.io/csb-xjvgtf/static/js/2.22d5b046.chunk.js.LICENSE.txt",
+    "static/media/correct.83946778.png": "https://.github.io/csb-xjvgtf/static/media/correct.83946778.png",
+    "static/media/pic1.9381783b.png": "https://.github.io/csb-xjvgtf/static/media/pic1.9381783b.png",
+    "static/media/pic3.dadb771b.png": "https://.github.io/csb-xjvgtf/static/media/pic3.dadb771b.png",
+    "static/media/pic6.34427279.png": "https://.github.io/csb-xjvgtf/static/media/pic6.34427279.png",
+    "static/media/specialcorrect.7f1e0d3a.png": "https://.github.io/csb-xjvgtf/static/media/specialcorrect.7f1e0d3a.png",
+    "static/media/specialwrong.3d151506.png": "https://.github.io/csb-xjvgtf/static/media/specialwrong.3d151506.png",
+    "static/media/wrong.0fc2b824.png": "https://.github.io/csb-xjvgtf/static/media/wrong.0fc2b824.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5617cb5b.js",
+    "static/js/2.22d5b046.chunk.js",
+    "static/css/main.22ddb897.chunk.css",
+    "static/js/main.79252621.chunk.js"
+  ]
+}
